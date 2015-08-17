@@ -1,7 +1,7 @@
 {
   "name": "tool-bar-bgc",
   "main": "./lib/tool-bar-bgc",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "bgc tool bar",
   "repository": {
     "type": "git",
